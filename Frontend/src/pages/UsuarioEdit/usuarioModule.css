@@ -1,0 +1,10 @@
+.container-user{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2em;
+}
+.card-user{
+    width: 65%;
+    border-radius: 6px;
+}
